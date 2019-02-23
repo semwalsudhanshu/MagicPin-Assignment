@@ -1,3 +1,5 @@
+//ASSUMPTION: SPACES ARE CONSIDERED IN THE PASSWORD
+
 #include<bits/stdc++.h>
 using namespace std;
 void result(int count,bool lowercase,bool uppercase,bool num,bool special,bool notpresent)
