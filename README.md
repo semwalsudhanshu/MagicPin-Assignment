@@ -18,7 +18,7 @@ Hint: Error messages for each check:
 Solution:
 
 
-Run on any C+ compiler.
+Run on any C++ compiler.
 This code is made assuming that spaces are considered in password.
 
 
