@@ -20,6 +20,7 @@ Solution:
 
 Run on any C++ compiler.
 This code is made assuming that spaces are considered in password.
+Time complexity and space complexity of the code is O(n) andO(1) respectively.
 
 
 Submitted By:
